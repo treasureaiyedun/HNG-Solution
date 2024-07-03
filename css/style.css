@@ -10,8 +10,11 @@ body {
     
 }
 .info {
-    margin-bottom: 10px;
     text-align: center;
+}
+
+.info h2{
+    margin-bottom: 2px;
 }
 
 h2 {
@@ -46,6 +49,7 @@ p {
     flex-direction: column;
     text-align: center;
     gap: 10px;
+    margin-bottom: 10px;
 }
 
 
