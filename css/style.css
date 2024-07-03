@@ -52,6 +52,10 @@ p {
     margin-bottom: 10px;
 }
 
+a:hover{
+    text-decoration: underline;
+    color: #4343e7;
+}
 
 .info-links h2{
     margin-bottom: 3px;
